@@ -1,11 +1,14 @@
 body {
-    background-image: http://res.cloudinary.com/mindbodygreen/image/upload/c_fill,w_994,h_430,g_center,q_80,f_auto,fl_lossy/crp/SuperfoodsInBowls-850x400.jpg;
+  background: url("http://www.imagefully.com/wp-content/uploads/2015/07/Yoga-Sunset-Standing-Namaskar-Picture.jpg");
+  background-size: cover; 
+  color: #ffffff;
 }
 
 h1, p {
-    color: #0098D4;
+    
+    text-align: center;
 }
 
 #slogan {
-	text-decoration: italic;
+	font-style: italic;
 }
