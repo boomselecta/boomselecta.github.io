@@ -1,0 +1,11 @@
+body {
+    background-image: http://res.cloudinary.com/mindbodygreen/image/upload/c_fill,w_994,h_430,g_center,q_80,f_auto,fl_lossy/crp/SuperfoodsInBowls-850x400.jpg;
+}
+
+h1, p {
+    color: #0098D4;
+}
+
+#slogan {
+	text-decoration: italic;
+}
